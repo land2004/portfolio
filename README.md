@@ -1,2 +1,1 @@
-# portfolio
-web portfolio
+fuji-removebg-preview.png
